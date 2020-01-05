@@ -32,7 +32,7 @@ Each click will provide a Chuck Norris joke using the Database URL listed above.
 
 -Text output displays requested joke on bottom
 
-Some of the jokes come with garbage within the text, so has been modified to remove ("&quot;") anytime it's
+Some of the jokes come with garbage within the text, so has been modified to remove "\&quot;" anytime it's
 present.  
 
 It must also be stressed that some of these jokes may appear to be offensive.  
